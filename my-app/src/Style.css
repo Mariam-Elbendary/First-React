@@ -1,0 +1,167 @@
+.container {
+    background-color:#ccc ;
+    width:100px;
+    border-radius: 20px;
+    margin: auto;
+  }
+  
+  button {
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    background-color: yellow;
+    border-radius: 20px;
+  }
+  
+  span{
+    padding:5px;
+    text-align: center;
+  }
+
+  .parent{
+     display: flex;
+     justify-content: center;
+  }
+ #cont{
+    margin: 10px;
+    border: 2px solid black;
+    width: 300px;
+    height: 400px;
+ }
+  img{
+    padding: 15px;
+    width: 200px;
+    height: 100px;
+  }
+h5{
+    font-size: 10px;
+}
+#log{
+    width: fit-content;
+    color: white;
+    background-color: rgb(101, 101, 196) ;
+    margin-top: 30px;
+    margin-right: 40px;
+    width: 200px;
+    border-radius: 20px;
+  
+}
+
+#create{
+    width: fit-content;
+    color: white;
+    background-color: rgb(101, 101, 196) ;
+    margin-top: 30px;
+    margin-right: 40px;
+    width: 200px;
+    border-radius: 20px;
+    font-size: 15px;
+   
+}
+.first{
+    margin: auto;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 30px;
+    
+}
+label{
+    margin: 20px;
+    outline: none;
+     font-size: 15px;
+     font-weight: bold;
+   
+}
+input{
+    margin: 20px;
+    outline: none;
+    border:1px solid rgb(101, 101, 196) ;
+}
+#sign{
+    width: fit-content;
+    color: white;
+    background-color: rgb(101, 101, 196) ;
+    margin-top: 30px;
+    margin-right: 40px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+#acc{
+    width: fit-content;
+    color: white;
+    margin-top: 30px;
+    background-color:rgb(101, 101, 196) ;
+    width: 300px;
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+.second{
+    margin: auto;
+    width: 400px;
+    height: 250px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+
+#get{
+    width: 250px;
+    padding: 15px;
+    height: 320px;
+    border: 3px solid rgb(24, 24, 199);
+    border-radius: 20px;
+    margin: 10px;
+    color:black;
+    font-weight: bold;
+}
+#poost{
+margin: auto;
+ height: 300px;
+width: 400px;
+ border: 2px solid black;
+}
+#post{
+    margin-top: 30px;
+    width: 200px;
+    background-color: rgb(218, 212, 212);  
+}
+
+.card{
+    width: 350px;
+    padding: 10px;
+    height: 310px;
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    padding-bottom: 30px;
+    color:rgb(24, 24, 109);
+}
+
+.card1{
+    width: 400px;
+    padding: 15px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    margin-left: 34%;
+    padding-bottom: 30px;
+    color:rgb(24, 24, 109);
+}
+
+#contex{
+  display: flex;
+  justify-content: space-around;
+ 
+}
+.cardd{
+    display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
